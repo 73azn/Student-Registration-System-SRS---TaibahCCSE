@@ -1,0 +1,352 @@
+.idLabel {
+    -fx-translate-x: -100px;
+    -fx-translate-y: -2px;
+    -fx-font-size: 20px;
+}
+
+.Header{ 
+    
+    -fx-translate-y: -200px;
+    -fx-font-size: 30px;
+}
+
+
+
+.Mainbg {
+
+    -fx-pref-width: 720px;
+    -fx-pref-height: 680px;
+    -fx-background-color: linear-gradient(to top right, #b3d7ff, #ffffcc);
+    
+}
+
+
+.btLogin
+{
+    -fx-pref-width:300px;
+
+}
+
+.btGen{
+    -fx-min-width: 50px;
+    -fx-max-width: 300px; 
+    -fx-translate-x: 50px;
+    -fx-pref-width:200px;
+}
+
+
+.btHover:hover {
+    -fx-background-color: DeepskyBlue;
+    -fx-effect: dropshadow(gaussian, black, 2, 1, 0, 0);
+}
+
+.Taibah
+
+{
+
+    -fx-translate-x: 10px;
+
+
+}
+
+.size .text {
+    -fx-font-size: 20px;
+}
+
+.textField{
+
+    -fx-control-inner-background: lightgray;
+    -fx-pref-width: 200px;
+    -fx-font-size: 20px;
+
+
+
+}
+
+.btLogout{
+    -fx-min-width: 150px;
+    -fx-max-width: 300px; 
+    -fx-translate-x: 50px;
+    -fx-pref-width:150px;
+    
+    -fx-translate-y: 190px;
+}
+
+.welcome{
+                -fx-fill: #ff0000;
+                -fx-stroke: #0000ff;
+                -fx-stroke-width: 4px;
+                
+            }
+
+.bt1{
+
+    -fx-translate-y : -2
+}
+
+
+.bt2{
+
+    -fx-translate-y : 2
+}
+
+
+.bt3{
+
+    -fx-translate-y : 6
+}
+
+.bt4{
+
+    -fx-translate-y : 10
+}
+
+.bt5{
+
+    -fx-translate-y : 14
+}
+ 
+.dynamic-header{
+
+       -fx-font-size: 20px;
+
+       -fx-translate-x:40;
+
+       -fx-font-weight: bold;
+}
+.dynamic-element{
+
+       -fx-font-size: 20px;
+
+       -fx-translate-x:25;
+
+        -fx-translate-y:130;
+       
+}
+
+.x-pos{
+
+    -fx-translate-x:0;
+}
+
+.idH{
+
+        -fx-translate-x:-80;
+
+        -fx-translate-y:-180;
+        -fx-font-weight: bold;
+
+
+}
+.NH{
+
+        -fx-translate-x:-90;
+
+        -fx-translate-y:-120;
+        -fx-font-weight: bold;
+
+}
+
+.EH{
+    
+
+        -fx-translate-x:-90;
+
+        -fx-translate-y:-60;
+        -fx-font-weight: bold;
+
+
+
+}
+
+.NumH{
+
+        -fx-translate-x:-95;
+        -fx-font-size: 18px;
+        -fx-translate-y:0;
+        -fx-font-weight: bold;
+
+}
+
+.idL{
+
+        -fx-translate-x:80;
+
+        -fx-translate-y:-180;
+
+
+}
+.NL{
+
+        -fx-translate-x:80;
+
+        -fx-translate-y:-120;
+
+
+}
+
+.EL{
+    
+
+        -fx-translate-x:80;
+
+        -fx-translate-y:-60;
+
+
+
+
+}
+
+.NumL{
+
+        -fx-translate-x:80;
+
+        -fx-translate-y:0;
+
+
+}
+
+.idrH{
+
+        -fx-translate-x:-100;
+
+        -fx-translate-y:-180;
+
+
+}
+.NrH{
+
+        -fx-translate-x:-100;
+
+        -fx-translate-y:-120;
+
+
+}
+
+.ErH{
+    
+
+        -fx-translate-x:-100;
+
+        -fx-translate-y:-60;
+
+
+
+
+}
+.NumrH{
+
+        -fx-translate-x:-100;
+
+        -fx-translate-y:0;
+
+
+}
+
+.idrL{
+
+        -fx-translate-x:60;
+
+        -fx-translate-y:-180;
+
+
+}
+.NrL{
+
+        -fx-translate-x:60;
+
+        -fx-translate-y:-120;
+
+
+}
+
+.ErL{
+    
+
+        -fx-translate-x:60;
+
+        -fx-translate-y:-60;
+
+
+
+
+}
+
+.NumrL{
+
+        -fx-translate-x:60;
+
+        -fx-translate-y:0;
+
+
+}
+
+.btAdd{
+
+        -fx-translate-x:0;
+
+        -fx-translate-y:190;
+
+
+}
+
+.add-field{
+
+
+        -fx-control-inner-background: lightgray;
+    -fx-pref-width: 200px;
+ 
+
+            -fx-translate-x:0;
+
+        -fx-translate-y:150;
+
+
+}
+
+.x-pos2{-fx-translate-x:0;-fx-translate-y:200;}
+
+.dynamic-header2{
+
+       -fx-font-size: 13px;
+
+       -fx-translate-x:210;
+
+       -fx-font-weight: bold;
+}
+.dynamic-element2{
+
+       -fx-font-size: 20px;
+
+       -fx-translate-x:225;
+
+        -fx-translate-y:130;
+       
+}
+.dynamic-element1{
+
+       -fx-font-size: 20px;
+
+       -fx-translate-x:25;
+
+        -fx-translate-y:66;
+       
+}
+
+.admin{
+
+    -fx-translate-x:-5;
+}
+.facBack{
+
+    -fx-translate-x:-100;
+}
+.btInfo{
+
+    -fx-translate-x:80;   
+}
+
+.btadmin{
+
+ -fx-translate-y:250;   
+}
